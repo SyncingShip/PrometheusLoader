@@ -4,6 +4,8 @@ Requires [Python 3](https://www.python.org) and [Git](https://git-scm.com)
 
 Place .patch files in your Mods folder, then run the .bat file
 
+You can find a repository of my mods [here](https://github.com/SyncingShip/HadesMods)
+
 ## Disclaimer
 Modding Hades is not officially endorsed by Supergiant Games.  
 Any game crashes, save corruption, crashes or other problems due to installing mods are not their responsibility to deal with.  
